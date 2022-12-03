@@ -1,7 +1,0 @@
-syntax = "proto3";
-package alice.checkers.checkers;
-
-option go_package = "github.com/alice/checkers/x/checkers/types";
-
-// Msg defines the Msg service.
-service Msg {}
